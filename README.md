@@ -39,4 +39,4 @@ During a network partition you choose consistency (reject some requests) or avai
 ## Classic designs to practice
 URL shortener · rate limiter · chat system · news feed · notification service · file storage · ride matching · search autocomplete.
 
-Next: roadmap in [backend-engineering-roadmap](../backend-engineering-roadmap). License: [MIT](LICENSE).
+Next: roadmap in [backend-engineering-roadmap](https://github.com/satyam-ships/backend-engineering-roadmap). License: [MIT](LICENSE).
